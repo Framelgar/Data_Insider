@@ -18,3 +18,5 @@ Se realizó en 5 pasos las cuales son las siguientes:
 3. Junción de Tablas y Análisis Exploratorio: Se cruza los dataset para obtener un dataset completo de variables.
 4. Consultas a los datos: Respondimos a una serie de preguntas para el informe.
 5. Visualización de datos: Graficamos para que el informe sea mas entendible.
+
+![image](https://github.com/Framelgar/Data_Insider/assets/73492158/c6e9faa0-329a-42f5-be80-f6324aecb910)
